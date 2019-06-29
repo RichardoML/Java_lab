@@ -1,0 +1,8 @@
+public class test
+{
+	public static void main(String[] args)
+	{
+		char letter = 'a' +1;
+		letter = 'a'+1;
+	}
+}
